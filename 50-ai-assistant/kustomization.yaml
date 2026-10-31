@@ -28,6 +28,6 @@ images:
   - name: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/agent
     newTag: "16"
   - name: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/chatbot
-    newTag: "17"
+    newTag: "6"
   - name: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/mcp
     newTag: "10"
