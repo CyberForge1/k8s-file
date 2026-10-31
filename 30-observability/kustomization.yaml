@@ -12,7 +12,7 @@ resources:
   - jaeger.yaml
   - prometheus.yaml
   - grafana.yaml
-  # Public URLs (https://<name>.digitalwitch.online)
+  # Public URLs (https://<name>.priniel.space)
   - ingress-grafana.yaml
   - ingress-jaeger.yaml # basic auth
   - ingress-prometheus.yaml # basic auth
@@ -80,5 +80,5 @@ configMapGenerator:
 
 # Image tags - updated automatically by the ecommerce-final-project pipeline
 images:
-  - name: 060647991200.dkr.ecr.us-east-2.amazonaws.com/ecomerce/opamp-server
+  - name: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/opamp-server
     newTag: "10"
