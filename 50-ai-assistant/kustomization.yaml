@@ -26,8 +26,8 @@ configMapGenerator:
 # Image tags - updated automatically by the ecommerce-final-project pipeline
 images:
   - name: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/agent
-    newTag: "16"
+    newTag: "14"
   - name: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/chatbot
-    newTag: "6"
+    newTag: "14"
   - name: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/mcp
-    newTag: "10"
+    newTag: "14"
