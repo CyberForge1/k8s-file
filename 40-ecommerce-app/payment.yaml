@@ -34,7 +34,7 @@ spec:
       enableServiceLinks: false
       containers:
         - name: payment
-          image: 061166140701.dkr.ecr.us-east-2.amazonaws.com/ecomerce/payment:latest
+          image: 061166140701.dkr.ecr.us-east-1.amazonaws.com/ecomerce/payment:latest
           ports:
             - name: grpc
               containerPort: 50051
