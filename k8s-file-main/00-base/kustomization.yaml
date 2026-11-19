@@ -9,3 +9,4 @@ resources:
   - namespaces.yaml
   - storageclass-gp3.yaml
   - clusterissuer-mergeable.yaml
+#
