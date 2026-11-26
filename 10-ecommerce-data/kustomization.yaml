@@ -26,4 +26,4 @@ configMapGenerator:
 # Image tags - updated automatically by the ecommerce-final-project pipeline
 images:
   - name: 939762010405.dkr.ecr.us-east-1.amazonaws.com/ecomerce/kafka
-    newTag: "latest"
+    newTag: "10"
