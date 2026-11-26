@@ -38,3 +38,6 @@ metadata:
   labels:
     app.kubernetes.io/part-of: astronomy-shop
     tier: ai
+
+
+#=============================================================
